@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1h8y-qE1QGe3h1LJJQJXbJVn0OlWmELSZ
 """
 
-def 
+def
     return panen_padi + panen_jagung
 
 total = hitung_total(177, 50)
